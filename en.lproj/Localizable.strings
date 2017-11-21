@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  HardwareResources
+
+  Created by Marecki on 20/11/2017.
+  Copyright © 2017 Marecki. All rights reserved.
+*/
+
+"Shaky shaky" = "Shaky shaky";
+"Made tap gesture!" = "Made tap gesture!";
+"Made pinch gesture!" = "Made pinch gesture!";
+"Made swipe gesture!" = "Made swipe gesture!";
+"Made long press gesture!" = "Made long press gesture!";
+
+"Error" = "Error";
+"Failed to get your location" = "Failed to get your location";
+"OK" = "OK";
+"Resolving the address" = "Resolving the address";
+"Found placemarks: %@, error: %@" = "Found placemarks: %@, error: %@";

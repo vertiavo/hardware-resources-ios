@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Latitude:"; ObjectID = "UPV-jI-z3m"; */
+"UPV-jI-z3m.text" = "Szerokość:";
+
+/* Class = "UILabel"; text = "Shake me!"; ObjectID = "WHG-JZ-WGO"; */
+"WHG-JZ-WGO.text" = "Potrząśnij mną!";
+
+/* Class = "UILabel"; text = "Last gesture will be displayed here"; ObjectID = "Yw7-EA-69v"; */
+"Yw7-EA-69v.text" = "Ostatni gest zostanie tutaj wyświetlony";
+
+/* Class = "UIButton"; normalTitle = "My current location"; ObjectID = "eUd-56-bLf"; */
+"eUd-56-bLf.normalTitle" = "Obecna lokalizacja";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "ejj-8r-rrS"; */
+"ejj-8r-rrS.text" = "Adres:";
+
+/* Class = "UIButton"; normalTitle = "Previous"; ObjectID = "pcf-zz-SXN"; */
+"pcf-zz-SXN.normalTitle" = "Powrót";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "uHx-On-gyw"; */
+"uHx-On-gyw.normalTitle" = "Dalej";
+
+/* Class = "UILabel"; text = "Longitude:"; ObjectID = "yCI-Mn-0Uf"; */
+"yCI-Mn-0Uf.text" = "Długość:";
